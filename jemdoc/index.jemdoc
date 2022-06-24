@@ -4,14 +4,12 @@
 ~~~
 {}{img_left}{data/profile.png}{alt text}{210}{210}{https://chengwei.github.io/}
 PhD student,
+\n
+[https://mcl.usc.edu/ USC Media Communications Lab]
 \n 
 [https://cde.nus.edu.sg/ece/ Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California],
 \n
-[https://mcl.usc.edu/ USC Media Communications Lab]
-\n
 Address: \Hughes Aircraft Electrical Engineering Center, Los Angeles, CA 90089
-\n
-Phone: \+...
 \n
 Email: /chengwei/ \[@\] usc \[DOT\] edu
 \n\n
@@ -23,21 +21,29 @@ Email: /chengwei/ \[@\] usc \[DOT\] edu
 == About me
 I am currently a Ph.D. student in University of Southern California ([https://www.usc.edu/ USC]) supervised by Prof. [https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh C.-C. Jay Kuo].
 \n
-bachelor's degreee in 2018.
+I received my bachelor's degreee in 2018 at [https://en.csu.edu.cn/ Central South University].
 
 == News
 
-- *Feb. 24, 2022*: ...
+- *June. 24, 2022*: ...
 
 == Research
 My research interests include 
 - Natural Language Processing.
+- Representation learning of words and sentences
 - Image and Signal Processing.
-- ...
 
 [research.html Find out more].
 
 == Publications 
-.  ... \[[https://arxiv.org/abs/2203.02679 paper]\], \[[https://github.com/BinWang28/EvalRank-Embedding-Evaluation code]\]
+. "SynWMD: Syntax-aware Word Mover's Distance for Sentence Similarity Evaluation" \[[https://arxiv.org/abs/2206.10029 paper]\], \[[https://github.com/amao0o0/SynWMD code]\]
+. "Task-Specific Dependency-based Word Embedding Methods" C Wei, B Wang, CCJ Kuo - Pattern Recognition Letters, 2022 \[[https://www.sciencedirect.com/science/article/abs/pii/S016786552200174X paper]\]
 
 [publications.html Full list of publications].
+
+== Teaching (USC)
+- Teaching assistant
+ -- Math 226: [data/syllabus-ee599-21sp-v3.pdf Calculus III] with Professor Cymra Haskell, Spring 2021
+ -- Math 229: [data/syllabus-ee599-21sp-v3.pdf Calculus III for Engineers and Scientists] with Professor Guillaume Dreyerl, Fall 2021
+- Grader
+ -- EE 569: [data/syllabus-ee599-21sp-v3.pdf Introduction to Digital Image Processing] with Professor C.-C. Jay Kuo, Spring 2020
