@@ -29,14 +29,18 @@ I received my bachelor's degreee in 2018 at [https://en.csu.edu.cn/ Central Sout
 
 == Research
 My research interests include 
-- Natural Language Processing.
+- Natural Language Processing
 - Representation learning of words and sentences
-- Image and Signal Processing.
+- Image and Signal Processing
+- Machine Learning
 
 [research.html Find out more].
 
 == Publications 
 . "SynWMD: Syntax-aware Word Mover's Distance for Sentence Similarity Evaluation" C Wei, B Wang, CCJ Kuo \[[https://arxiv.org/abs/2206.10029 paper]\], \[[https://github.com/amao0o0/SynWMD code]\]
+. ”A Focused Study on Sequence Length for Dialogue Summarization” Bin Wang, Chengwei Wei, Chen Zhang and Haizhou Li.- Submitted to AACL-IJCNLP 2022
+. ”ExpressionHop: A Lightweight Human Facial Expression Classifier” Chengwei Wei, Rafael Luiz Testa, Ariane Machado-Lima, Fatima L. S. Nunes, C.-C. Jay Kuo. 2022 IEEE 5th International Conference
+on Multimedia Information Processing and Retrieval (MIPR)
 . "Task-Specific Dependency-based Word Embedding Methods" C Wei, B Wang, CCJ Kuo - Pattern Recognition Letters, 2022 \[[https://www.sciencedirect.com/science/article/abs/pii/S016786552200174X paper]\]
 
 [publications.html Full list of publications].
@@ -44,6 +48,6 @@ My research interests include
 == Teaching (USC)
 - Teaching assistant
  -- Math 226: [data/syllabus-ee599-21sp-v3.pdf Calculus III] with Professor Cymra Haskell, Spring 2021
- -- Math 229: [data/syllabus-ee599-21sp-v3.pdf Calculus III for Engineers and Scientists] with Professor Guillaume Dreyerl, Fall 2021
+ -- Math 229: [data/syllabus-ee599-21sp-v3.pdf Calculus III for Engineers and Scientists] with Professor Guillaume Dreyerl, Fall 2021 & 2022
 - Grader
  -- EE 569: [data/syllabus-ee599-21sp-v3.pdf Introduction to Digital Image Processing] with Professor C.-C. Jay Kuo, Spring 2020
