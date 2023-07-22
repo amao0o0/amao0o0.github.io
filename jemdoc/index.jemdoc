@@ -25,23 +25,25 @@ I received my bachelor's degreee in 2018 at [https://en.csu.edu.cn/ Central Sout
 
 == News
 
-- *June. 24, 2022*: ...
+- *July, 2023*: ...
 
 == Research
 My research interests include 
 - Natural Language Processing
 - Representation learning of words and sentences
+- Text Similarity Measurement
+- Language Model
+- Text Summarization
 - Image and Signal Processing
-- Machine Learning
 
 [research.html Find out more].
 
 == Publications 
-. "SynWMD: Syntax-aware Word Mover's Distance for Sentence Similarity Evaluation" C Wei, B Wang, CCJ Kuo \[[https://arxiv.org/abs/2206.10029 paper]\], \[[https://github.com/amao0o0/SynWMD code]\]
-. ”A Focused Study on Sequence Length for Dialogue Summarization” Bin Wang, Chengwei Wei, Chen Zhang and Haizhou Li.- Submitted to AACL-IJCNLP 2022
-. ”ExpressionHop: A Lightweight Human Facial Expression Classifier” Chengwei Wei, Rafael Luiz Testa, Ariane Machado-Lima, Fatima L. S. Nunes, C.-C. Jay Kuo. 2022 IEEE 5th International Conference
-on Multimedia Information Processing and Retrieval (MIPR)
-. "Task-Specific Dependency-based Word Embedding Methods" C Wei, B Wang, CCJ Kuo - Pattern Recognition Letters, 2022 \[[https://www.sciencedirect.com/science/article/abs/pii/S016786552200174X paper]\]
+. Chengwei Wei, Yun-Cheng Wang, Bin Wang, and C-C. Jay Kuo. "An overview on language models: Recent developments and outlook." arXiv preprint (2023). \[[https://arxiv.org/abs/2303.05759 paper]\]
+. Chengwei Wei, Bin Wang, and C-C. Jay Kuo. "Synwmd: Syntax-aware word mover’s distance for sentence similarity evaluation." Pattern Recognition Letters 170 (2023). \[[https://arxiv.org/abs/2206.10029 paper]\], \[[https://github.com/amao0o0/SynWMD code]\]
+. Wang, Bin, Chen Zhang, Chengwei Wei, and Haizhou Li. "A focused study on sequence length for dialogue summarization." arXiv preprint arXiv:2209.11910 (2022). \[[https://arxiv.org/pdf/2209.11910.pdf paper]\], \[[https://github.com/BinWang28/LA-BART code]\]
+. Wei, Chengwei, C-C. Jay Kuo, Rafael Luiz Testa, Ariane Machado-Lima, and Fátima LS Nunes. "ExpressionHop: A Lightweight Human Facial Expression Classifier." 2022 IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR) \[[https://ieeexplore.ieee.org/abstract/document/9874677 paper]\]
+. Chengwei Wei, Bin Wang, and C-C. Jay Kuo. "Task-specific dependency-based word embedding methods." Pattern Recognition Letters 159 (2022). \[[https://www.sciencedirect.com/science/article/abs/pii/S016786552200174X paper]\]
 
 [publications.html Full list of publications].
 
@@ -49,6 +51,6 @@ on Multimedia Information Processing and Retrieval (MIPR)
 - Teaching assistant
  -- EE 559: [data/EE559_Syllabus_S23_v5.pdfIntroduction to Digital Image Processing] with Machine Learning, Professor Keith M. Chugg and Professor B. Keith Jenkins, Spring 2023
  -- Math 229: [data/syllabus_math229_F2022_9am.pdf Calculus III for Engineers and Scientists] with Professor Guillaume Dreyerl, Fall 2021 & 2022
- -- Math 226: \[[https://classes.usc.edu/term-20211/course/math-226/ Calculus III]\] with Professor Cymra Haskell, Spring 2021
+ -- Math 226: \[https://classes.usc.edu/term-20211/course/math-226/ Calculus III]\ with Professor Cymra Haskell, Spring 2021
 - Grader
- -- EE 569: \[[https://classes.usc.edu/term-20201/course/ee-569/ Introduction to Digital Image Processing]\] with Professor C.-C. Jay Kuo, Spring 2020
+ -- EE 569: \[https://classes.usc.edu/term-20201/course/ee-569/ Introduction to Digital Image Processing]\ with Professor C.-C. Jay Kuo, Spring 2020
