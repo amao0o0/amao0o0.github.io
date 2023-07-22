@@ -42,15 +42,15 @@ My research interests include
 . Chengwei Wei, Yun-Cheng Wang, Bin Wang, and C-C. Jay Kuo. "An overview on language models: Recent developments and outlook." arXiv preprint (2023). \[[https://arxiv.org/abs/2303.05759 paper]\]
 . Chengwei Wei, Bin Wang, and C-C. Jay Kuo. "Synwmd: Syntax-aware word mover’s distance for sentence similarity evaluation." Pattern Recognition Letters 170 (2023). \[[https://arxiv.org/abs/2206.10029 paper]\], \[[https://github.com/amao0o0/SynWMD code]\]
 . Wang, Bin, Chen Zhang, Chengwei Wei, and Haizhou Li. "A focused study on sequence length for dialogue summarization." arXiv preprint arXiv:2209.11910 (2022). \[[https://arxiv.org/pdf/2209.11910.pdf paper]\], \[[https://github.com/BinWang28/LA-BART code]\]
-. Wei, Chengwei, C-C. Jay Kuo, Rafael Luiz Testa, Ariane Machado-Lima, and Fátima LS Nunes. "ExpressionHop: A Lightweight Human Facial Expression Classifier." 2022 IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR) \[[https://ieeexplore.ieee.org/abstract/document/9874677 paper]\]
+. Chengwei Wei, C-C. Jay Kuo, Rafael Luiz Testa, Ariane Machado-Lima, and Fátima LS Nunes. "ExpressionHop: A Lightweight Human Facial Expression Classifier." 2022 IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR) \[[https://ieeexplore.ieee.org/abstract/document/9874677 paper]\]
 . Chengwei Wei, Bin Wang, and C-C. Jay Kuo. "Task-specific dependency-based word embedding methods." Pattern Recognition Letters 159 (2022). \[[https://www.sciencedirect.com/science/article/abs/pii/S016786552200174X paper]\]
 
 [publications.html Full list of publications].
 
 == Teaching (USC)
 - Teaching assistant
- -- EE 559: [data/EE559_Syllabus_S23_v5.pdfIntroduction to Digital Image Processing] with Machine Learning, Professor Keith M. Chugg and Professor B. Keith Jenkins, Spring 2023
+ -- EE 559: [data/EE559_Syllabus_S23_v5.pdfIntroduction Machine Learning I: Supervised Methods] with Professor Keith M. Chugg and Professor B. Keith Jenkins, Spring 2023
  -- Math 229: [data/syllabus_math229_F2022_9am.pdf Calculus III for Engineers and Scientists] with Professor Guillaume Dreyerl, Fall 2021 & 2022
- -- Math 226: \[https://classes.usc.edu/term-20211/course/math-226/ Calculus III]\ with Professor Cymra Haskell, Spring 2021
+ -- Math 226: [https://classes.usc.edu/term-20211/course/math-226/ Calculus III] with Professor Cymra Haskell, Spring 2021
 - Grader
- -- EE 569: \[https://classes.usc.edu/term-20201/course/ee-569/ Introduction to Digital Image Processing]\ with Professor C.-C. Jay Kuo, Spring 2020
+ -- EE 569: [https://classes.usc.edu/term-20201/course/ee-569/ Introduction to Digital Image Processing] with Professor C.-C. Jay Kuo, Spring 2020
