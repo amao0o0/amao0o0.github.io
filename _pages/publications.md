@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Pre-prints
 ---
-* "Confidence-Aware Sub-Structure Beam Search (CABS): Mitigating Hallucination in Structured Data Generation with Large Language Models" [\[paper\]](https://arxiv.org/pdf/2406.00069) \
+* "Confidence-Aware Sub-Structure Beam Search (CABS): Mitigating Hallucination in Structured Data Generation with Large Language Models" [\[paper\]](https://arxiv.org/pdf/2406.00069) [\[Demo\]](https://cabsllm.github.io/) \
 **Chengwei Wei**, Kee Kiat Koo, Amir Tavanaei, Karim Bouyarmane \
 arXiv preprint arXiv:2406.00069, 2024
 * "Resilience of Large Language Models for Noisy Instructions"  [\[paper\]](https://arxiv.org/pdf/2404.09754) \
