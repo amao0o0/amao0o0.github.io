@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chengwei's Homepage"
+title                    : "Chengwei Wei's Homepage"
 title_separator          : "-"
 name                     : &name "Chengwei Wei (魏 承威)"
 description              : &description "Scientist @ I2R A*STAR | PhD @ USC"
