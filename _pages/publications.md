@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=v8fXBnwAAAAJ&hl=en)
+
 Pre-prints
 ---
 * "Confidence-Aware Sub-Structure Beam Search (CABS): Mitigating Hallucination in Structured Data Generation with Large Language Models" [\[paper\]](https://arxiv.org/pdf/2406.00069) \
