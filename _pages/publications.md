@@ -14,9 +14,6 @@ Pre-prints
 * "Confidence-Aware Sub-Structure Beam Search (CABS): Mitigating Hallucination in Structured Data Generation with Large Language Models" [\[paper\]](https://arxiv.org/pdf/2406.00069) [\[demo\]](https://cabsllm.github.io/) \
 **Chengwei Wei**, Kee Kiat Koo, Amir Tavanaei, Karim Bouyarmane \
 arXiv preprint arXiv:2406.00069, 2024
-* "Resilience of Large Language Models for Noisy Instructions"  [\[paper\]](https://arxiv.org/pdf/2404.09754) \
-Bin Wang, **Chengwei Wei**, Zhengyuan Liu, Geyu Lin, Nancy F. Chen \
-arXiv preprint arXiv:2404.09754, 2024
 * "A focused study on sequence length for dialogue summarization" [\[paper\]](https://arxiv.org/pdf/2209.11910.pdf) [\[code\]](https://github.com/BinWang28/LA-BART) \
 Wang, Bin, Chen Zhang, **Chengwei Wei**, and Haizhou Li \
 arXiv preprint arXiv:2209.11910, 2022
@@ -24,9 +21,12 @@ arXiv preprint arXiv:2209.11910, 2022
 
 Conferences & Workshops
 ---
+* "Resilience of Large Language Models for Noisy Instructions"  [\[paper\]](https://arxiv.org/pdf/2404.09754) \
+Bin Wang, **Chengwei Wei**, Zhengyuan Liu, Geyu Lin, Nancy F. Chen \
+EMNLP 2024 - Findings
 * "CRAFT: Extracting and Tuning Cultural Instructions from the Wild" [\[paper\]](https://aclanthology.org/2024.c3nlp-1.4/) [\[code\]](https://github.com/SeaEval/CRAFT) \
 Bin Wang, Geyu Lin, Zhengyuan Liu, **Chengwei Wei**, and Nancy Chen \
-In Proceedings of the 2nd Workshop on Cross-Cultural Considerations in NLP, 2024 
+In Proceedings of the 2nd Workshop on Cross-Cultural Considerations in NLP, 2024 (Best Paper Award)
 * "A Green Learning Approach to Spoofed Speech Detection" [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10448336)\
 **Chengwei Wei**, Runqi Pang, C-C Jay Kuo \
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
