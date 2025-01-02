@@ -11,6 +11,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 Pre-prints
 ---
+* “CoinMath: Harnessing the Power of Coding Instruction for Math LLMs” [\[paper\]](https://arxiv.org/pdf/2412.11699) [\[code & dataset\]](https://github.com/amao0o0/CoinMath) \
+**Chengwei Wei**, Bin Wang, Jung-jae Kim, Guimei Liu, Nancy F Chen \
+arXiv preprint arXiv:2412.11699, 2024
 * "Confidence-Aware Sub-Structure Beam Search (CABS): Mitigating Hallucination in Structured Data Generation with Large Language Models" [\[paper\]](https://arxiv.org/pdf/2406.00069) [\[demo\]](https://cabsllm.github.io/) \
 **Chengwei Wei**, Kee Kiat Koo, Amir Tavanaei, Karim Bouyarmane \
 arXiv preprint arXiv:2406.00069, 2024
@@ -21,6 +24,9 @@ arXiv preprint arXiv:2209.11910, 2022
 
 Conferences & Workshops
 ---
+* "GHOI: A Green Human-Object-Interaction Detector" [\[paper\]](https://ieeexplore.ieee.org/abstract/document/10707821) \
+Tsung-Shan Yang, Yun-Cheng Wang, **Chengwei Wei**, C-C Jay Kuo \
+IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR), 2022 
 * "Resilience of Large Language Models for Noisy Instructions"  [\[paper\]](https://arxiv.org/pdf/2404.09754) \
 Bin Wang, **Chengwei Wei**, Zhengyuan Liu, Geyu Lin, Nancy F. Chen \
 EMNLP 2024 - Findings
